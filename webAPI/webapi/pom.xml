@@ -8,11 +8,11 @@
 		<version>2.3.0.RELEASE</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.jsdrivendev</groupId>
+	<groupId>com.jsdriven</groupId>
 	<artifactId>webapi</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>webapi</name>
-	<description>webApi for jsDriven</description>
+	<name>demo</name>
+	<description>Demo project for Spring Boot</description>
 
 	<properties>
 		<java.version>1.8</java.version>
